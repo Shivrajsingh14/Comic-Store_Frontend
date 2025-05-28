@@ -1,5 +1,5 @@
 Comic Store
-Welcome to Comic Store, a dynamic and engaging web application designed for comic enthusiasts! Built using HTML and JavaScript, this project provides a seamless experience for browsing, managing, and purchasing your favorite comics.
+Welcome to Comic Store, a dynamic and engaging web application designed for comic enthusiasts! Built using HTML and JavaScript, this project provides a seamless experience for browsing, managing, and purchasing your favorite comics
 
 🚀 Features
 Comic Catalog: Browse through a vast collection of comic books with detailed descriptions and high-resolution cover images.
